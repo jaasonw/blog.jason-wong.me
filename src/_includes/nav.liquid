@@ -1,35 +1,42 @@
 <nav class="flex justify-between items-center h-16 my-2">
   <div class="flex items-center gap-3">
-    <img class="rounded-full" src="/assets/images/wayson.jpg" height="40" width="40">
-    <a class="group transition hover:text-sky-600" href="/">
-      wayson blog
-      <span class="block max-w-0 group-hover:max-w-full transition-all duration-200 h-0.5 bg-sky-600"></span>
+    <img
+      class="rounded-full"
+      src="/assets/images/wayson.jpg"
+      height="40"
+      width="40">
+    <a class="group transition hover:text-sky-600 dark:hover:text-sky-500" href="/">
+      wayson website
+      <span class="block max-w-0 group-hover:max-w-full transition-all duration-200 h-0.5 bg-sky-600 dark:bg-sky-500"></span>
     </a>
   </div>
   <ul class="flex gap-5">
     <li>
-      <a class="group transition hover:text-sky-600" href="https://jason-wong.me">
+      <a class="group transition hover:text-sky-600 dark:hover:text-sky-500" href="https://jason-wong.me">
         portfolio
-        <span class="block max-w-0 group-hover:max-w-full transition-all duration-200 h-0.5 bg-sky-600"></span>
+        <span class="block max-w-0 group-hover:max-w-full transition-all duration-200 h-0.5 bg-sky-600 dark:bg-sky-500"></span>
       </a>
     </li>
     <li>
-      <a class="group transition hover:text-sky-600" href="https://jason-wong.me/github">
+      <a class="group transition hover:text-sky-600 dark:hover:text-sky-500" href="https://jason-wong.me/github">
         github
-        <span class="block max-w-0 group-hover:max-w-full transition-all duration-200 h-0.5 bg-sky-600"></span>
+        <span class="block max-w-0 group-hover:max-w-full transition-all duration-200 h-0.5 bg-sky-600 dark:bg-sky-500"></span>
       </a>
     </li>
     <li>
-      <a class="group transition hover:text-sky-600" href="https://jason-wong.me/linkedin">
+      <a class="group transition hover:text-sky-600 dark:hover:text-sky-500" href="https://jason-wong.me/linkedin">
         linkedin
-        <span class="block max-w-0 group-hover:max-w-full transition-all duration-200 h-0.5 bg-sky-600"></span>
+        <span class="block max-w-0 group-hover:max-w-full transition-all duration-200 h-0.5 bg-sky-600 dark:bg-sky-500"></span>
       </a>
     </li>
     <li>
-      <a class="group transition hover:text-sky-600" href="https://jason-wong.me/resume">
+      <a class="group transition hover:text-sky-600 dark:hover:text-sky-500" href="https://jason-wong.me/resume">
         resume
-        <span class="block max-w-0 group-hover:max-w-full transition-all duration-200 h-0.5 bg-sky-600"></span>
+        <span class="block max-w-0 group-hover:max-w-full transition-all duration-200 h-0.5 bg-sky-600 dark:bg-sky-500"></span>
       </a>
+    </li>
+    <li>
+      <button class="fas fa-moon" x-on:click="darkMode = !darkMode"></button>
     </li>
   </ul>
 </nav>

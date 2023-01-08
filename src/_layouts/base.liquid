@@ -1,18 +1,26 @@
 <!doctype html>
-<html lang="en">
+<html
+  lang="en"
+  x-data="{ darkMode: (localStorage.getItem('dark') == null) ? window.matchMedia('(prefers-color-scheme: dark)') : localStorage.getItem('dark') === 'true'} "
+  x-init="$watch('darkMode', val => localStorage.setItem('dark', val))"
+  x-bind:class="{ 'dark': darkMode }">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="/assets/images/favicon.png">
-    <link href="https://unpkg.com/prismjs@1.20.0/themes/prism.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/assets/css/prism.css' | url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/prism-okaidia.css' | url }}">
     <link rel="stylesheet" href="{{ '/assets/css/tailwind.css' | url }}">
+    <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    <script defer src="/assets/js/fontawesome.js"></script>
+
     <title>
-      wayson blog |
+      wayson website |
       {{ title }}
     </title>
   </head>
-  <body class="bg-stone-100 flex justify-center text-black w-screen">
+  <body class=" flex justify-center w-screen bg-stone-100 text-black dark:bg-slate-800 dark:text-stone-100">
     <div class="flex flex-col w-8/12 max-w-3xl">
       {% include 'nav.liquid' %}
       {{ content }}

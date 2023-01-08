@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Code+Pro:ital,wght@0,400;0,500;1,400&display=swap");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -27,11 +28,29 @@
   @apply rounded-md;
   @apply p-0.5;
   @apply px-2;
+  @apply font-mono;
+}
+
+.dark .markdown pre {
+  @apply bg-slate-700;
+  /* @apply bg-gray-200; */
+  @apply rounded-md;
+  @apply p-4;
+}
+
+.dark .markdown code {
+  @apply bg-slate-700;
+  /* @apply bg-gray-200; */
+  @apply rounded-md;
+  @apply p-0.5;
+  @apply px-2;
+  @apply font-mono;
 }
 
 .markdown a {
   @apply hover:underline;
   @apply text-sky-600;
+  @apply dark:text-sky-500;
 }
 
 .markdown ul {
@@ -51,4 +70,10 @@
   @apply border;
   @apply p-2;
   @apply border-gray-600;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    @apply bg-slate-800;
+  }
 }

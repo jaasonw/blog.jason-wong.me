@@ -3,6 +3,9 @@ const mathjaxPlugin = require("eleventy-plugin-mathjax");
 
 module.exports = function (eleventyConfig) {
   // eleventyConfig.addPassthroughCopy("src/assets/css/markdown.css");
+  eleventyConfig.addPassthroughCopy("src/assets/js/fontawesome.js");
+  eleventyConfig.addPassthroughCopy("src/assets/css/prism.css");
+  eleventyConfig.addPassthroughCopy("src/assets/css/prism-okaidia.css");
   eleventyConfig.addPassthroughCopy("src/assets/images/*");
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.addPlugin(mathjaxPlugin, {

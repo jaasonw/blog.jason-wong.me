@@ -14,6 +14,15 @@ function itsAMotherFuckingFunction() {
 }
 ```
 
+```py
+# it's a code block
+
+x = 1
+if x == 1:
+    # indented four spaces
+    print("x is 1.")
+```
+
 ## it can do links
 
 [click this fucking link](https://jason-wong.me)
