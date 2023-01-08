@@ -1,3 +1,54 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.markdown h1 {
+  @apply font-bold;
+}
+.markdown h1,
+.markdown h2,
+.markdown h3,
+.markdown h4,
+.markdown h5,
+.markdown h6 {
+  @apply mt-3;
+  @apply font-bold;
+  @apply text-lg;
+}
+
+.markdown pre {
+  @apply bg-gray-200;
+  @apply rounded-md;
+  @apply p-4;
+}
+
+.markdown code {
+  @apply bg-gray-200;
+  @apply rounded-md;
+  @apply p-0.5;
+  @apply px-2;
+}
+
+.markdown a {
+  @apply hover:underline;
+  @apply text-sky-600;
+}
+
+.markdown ul {
+  @apply list-disc;
+  @apply ml-6;
+}
+.markdown ol {
+  @apply list-decimal;
+  @apply ml-6;
+}
+
+.markdown table {
+  @apply border-gray-600;
+}
+.markdown th,
+.markdown td {
+  @apply border;
+  @apply p-2;
+  @apply border-gray-600;
+}
