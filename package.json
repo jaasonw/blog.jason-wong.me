@@ -5,9 +5,12 @@
   "main": "index.js",
   "scripts": {
     "start": "npm-run-all -p dev:*",
+    "dev": "npm run start",
     "build": "run-s build:*",
     "dev:11ty": "eleventy --serve",
     "dev:css": "tailwindcss -i src/assets/css/tailwind.css -o _site/assets/css/tailwind.css --watch --postcss",
+    "dev:sass": "sass --watch src/assets/css:_site/assets/css",
+    "build:sass": "sass src/assets/css:_site/assets/css",
     "build:11ty": "eleventy",
     "build:css": "tailwindcss -i src/assets/css/tailwind.css -o _site/assets/css/tailwind.css --postcss",
     "format": "prettier --plugin-search-dir . --write ."
@@ -35,7 +38,11 @@
     "html-minifier": "^4.0.0",
     "npm-run-all": "^4.1.5",
     "postcss": "^8.4.21",
+    "postcss-import": "^15.1.0",
+    "postcss-nested": "^6.0.0",
     "prettier": "^2.8.2",
+    "sass": "^1.57.1",
+    "scss": "^0.2.4",
     "tailwindcss": "^3.2.4"
   }
 }
