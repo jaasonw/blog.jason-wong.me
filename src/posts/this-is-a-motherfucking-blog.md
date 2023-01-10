@@ -1,7 +1,7 @@
 ---
 layout: post.liquid
 title: this is a motherfucking blog
-date: Created
+date: 2023-01-09
 ---
 
 # it supports code block rendering

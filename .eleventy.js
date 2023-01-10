@@ -1,6 +1,8 @@
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const mathjaxPlugin = require("eleventy-plugin-mathjax");
 const htmlmin = require("html-minifier");
+const markdownIt = require("markdown-it");
+const markdownItAnchor = require("markdown-it-anchor");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/assets/js/fontawesome.js");
@@ -35,6 +37,21 @@ module.exports = function (eleventyConfig) {
 
     return content;
   });
+
+  // add anchors to blog headers
+  let markdownLibrary = markdownIt({
+    html: true,
+    breaks: true,
+    linkify: true,
+  }).use(markdownItAnchor, {
+    permalink: markdownItAnchor.permalink.linkInsideHeader({
+      placement: "after",
+    }),
+    permalinkClass: "direct-link",
+    permalinkSymbol: "#",
+  });
+  eleventyConfig.setLibrary("md", markdownLibrary);
+
   return {
     dir: {
       input: "src",
