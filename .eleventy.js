@@ -4,6 +4,7 @@ const htmlmin = require("html-minifier");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const { EleventyPluginCodeDemo } = require("eleventy-plugin-code-demo");
+const timeToRead = require("eleventy-plugin-time-to-read");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/assets/js/fontawesome.js");
@@ -39,6 +40,17 @@ module.exports = function (eleventyConfig) {
       height: "100%",
       style: "width: 100%;",
       frameborder: "0",
+    },
+  });
+
+  eleventyConfig.addPlugin(timeToRead, {
+    speed: "200 words a minute",
+    style: "short",
+    minutes: true,
+    seconds: false,
+    digits: 1,
+    output: function (data) {
+      return data.timing;
     },
   });
   eleventyConfig.addTransform("htmlmin", function (content) {
