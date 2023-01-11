@@ -9,7 +9,9 @@ layout: base.liquid
 <ul>
   {%- for post in collections.posts reversed -%}
     <li class="flex flex-col">
-      <a class="text-sky-600 font-semibold hover:underline" href="{{ post.url }}">{{ post.data.title }}</a>
+      <a class="text-sky-600 font-semibold hover:underline dark:text-sky-500" href="{{ post.url }}">
+        {{- post.data.title -}}
+      </a>
       <span class="text-gray-500 text-sm">{{ post.date | date: '%B %d %Y' }}</span>
     </li>
   {%- endfor -%}
