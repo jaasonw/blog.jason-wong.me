@@ -60,4 +60,49 @@ $$\phi(f) = \phi(g) \implies { x \in \mathbb{R} \mid f(x) = 1 } = { x \in \mathb
 
 **Lorem** _ipsum_ sit amet consectetur adipisicing elit. Suscipit cupiditate id ullam nihil molestias doloribus quisquam maiores ad mollitia animi voluptatum sapiente, laudantium debitis sequi est ipsum omnis totam quo quaerat? Ducimus quae aut vitae harum cupiditate quam exercitationem cum optio molestiae, quas nisi assumenda minus magni cumque consequatur, dolorum quaerat voluptatibus labore voluptatem iure modi?
 
+## this is what a code demo would look like
+
+```js
+const button = document.querySelector("button");
+button.addEventListener("click", () => {
+  alert("hello, 11ty!");
+});
+```
+
+<div class="h-80">
+  {% codeDemo 'demo'%}
+  
+  ```html
+  <button>Click me!</button>
+  ```
+  
+  ```css
+  * {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+  body,
+  html {
+    height: 100%;
+  }
+  body {
+    display: grid;
+    place-content: center;
+  }
+  button {
+    padding: 8px;
+  }
+  ```
+  
+  ```js
+  const button = document.querySelector("button");
+  button.addEventListener("click", () => {
+    alert("hello, 11ty!");
+  });
+  ```
+  
+  {% endcodeDemo %}
+</div>
+
 ## no it's not fucking mobile responsive yet

@@ -3,6 +3,7 @@ const mathjaxPlugin = require("eleventy-plugin-mathjax");
 const htmlmin = require("html-minifier");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
+const { EleventyPluginCodeDemo } = require("eleventy-plugin-code-demo");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/assets/js/fontawesome.js");
@@ -19,6 +20,25 @@ module.exports = function (eleventyConfig) {
     },
     svg: {
       scale: 1.2,
+    },
+  });
+  eleventyConfig.addPlugin(EleventyPluginCodeDemo, {
+    name: "codeDemo",
+    renderDocument: ({ html, css, js }) => `
+    <!DOCTYPE html>
+    <html>
+      <head>
+        <style>${css}</style>
+      </head>
+      <body>
+        ${html}
+        <script>${js}</script>
+      </body>
+    </html>`,
+    iframeAttributes: {
+      height: "100%",
+      style: "width: 100%;",
+      frameborder: "0",
     },
   });
   eleventyConfig.addTransform("htmlmin", function (content) {
