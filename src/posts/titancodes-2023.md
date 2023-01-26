@@ -14,7 +14,10 @@ question
 </details>
 <br> -->
 
-Here are some of my solutions with explanations for my Titancodes 2023 submissions. Not all solutions involved writing an elegant code solution and were not included. For instance: on the the password generation problem, I used a password generator and for the web problems I used Postman.
+Here are some of my solutions with explanations for my Titancodes 2023 submissions. Solutions may not be optimal.
+Additonally, not all solutions involved writing an elegant code solution and were not included. For instance: on the the password generation problem, I used a password generator and for the web problems I used Postman.
+
+<br>
 
 # Validation/dmv.ca.gov
 
@@ -425,6 +428,264 @@ The resulting string should loop around, we know that the flag starts with "flag
 
 ```txt
 flag{0k4y_but_wh4t_1f_1dk_wh4ts_n3xt_r4nd0m_t3xt_t0_m4k3_sur3_y0u_d0nt_d0_th1s_by_h4nd_0r_1f_y0u_d0_1t_t4k3s_4_r3ally_re4lly_rea11y_r3411y_l0ng_t1me}
+```
+
+</details>
+<br>
+
+# Networked/the abyss
+
+I had heard some story about an abyss, that if you stare in, it stares back...
+
+This one doesn't do that. It does expect you to echo what it said, though! And it wants it back fast!
+
+You can find the abyss at `137.151.29.179:4000`
+<br>
+
+<details>
+  <summary>Solution</summary>
+
+Using `netcat` we can manually open a [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol) connection to the address and port in order to get an idea of what the abyss wants from us.
+
+```txt
+➜  netcat 137.151.29.179 4000
+I'm gonna send a character! Send it back! Fast!!!
+t
+t
+Correct! Next?
+cI
+cI
+Correct! Next?
+SWf
+SWf
+Correct! Next?
+gaAU
+gaAU
+Too slow!
+```
+
+Now I may type at a horrendously slow words per minute but I don't care who you are, you aren't gonna be able to type all this out in time.
+
+Originally, I attempted this with the the [socket](https://docs.python.org/3/library/socket.html) included with Python but then Christos rolled up and recommended to use a library called [pwntools](https://github.com/Gallopsled/pwntools) which is most definitely not included with Python and is a pretty heavy library for something as simple as an echo server.
+
+For the purposes of this tutorial(?) I went back and rewrote it using the socket library instead.
+
+It's a fairly simple script but I've tried to annotate each line for those unfamiliar with socket programming
+
+```py
+import socket
+
+conn = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+conn.connect(("137.151.29.179", 4000))
+
+while True:
+    # receive the first message
+    data = conn.recv(4096)
+    print(data.decode())
+    # receive raw bytes from the server
+    data = conn.recv(4096)
+    data = data.decode()
+    # decode the bytes to a string
+    data = data.lstrip()
+    # send the string back to the server
+    conn.send(data.encode())
+    print(data)
+```
+
+<br>
+
+Open a TCP connection to the server
+
+```py
+conn = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+conn.connect(("137.151.29.179", 4000))
+```
+
+<br>
+
+Read some data from the server, capped at 4096 bytes
+
+```py
+data = conn.recv(4096)
+```
+
+<br>
+
+`recv()` reads data from the server as a raw binary string, we'll need to decode it to interpret these bytes as strings instead
+
+```py
+print(data.decode())
+```
+
+<br>
+
+When we receive the string from the server, it includes a `\n` character at the beginning and end of the string. To extract the string we want to send back, we need to strip the leading and trailing whitespace. You can do this with `.lstrip()` and `.rstrip()` respectively. However, we also want to add a newline character back onto the end of the string to simulate our "enter" press when we send the string back, so to avoid redundancy, we'll only use `.lstrip()` for the leading whitespace.
+
+```py
+data = data.lstrip()
+```
+
+<br>
+
+Similar to how the server sent us the string in the form of raw bytes, we'll need to return the string the same way, as raw binary, `.encode()` accomplishes this for us nicely.
+
+```py
+conn.send(data.encode())
+```
+
+<br>
+
+Output
+
+```txt
+I'm gonna send a character! Send it back! Fast!!!
+V
+
+Correct! Next?
+gu
+
+Correct! Next?
+Cvz
+
+Correct! Next?
+qnGc
+
+[Output truncated because you get the point]
+
+Correct! Next?
+MRDVJfWXfZcPFIylKkSEFWStcVFkFQkPaukrDfEXgDXoeFflt
+
+Correct! Next?
+yaTjgGIDsghtdQKsQgvgGcaRSOnElKSmvWnCGMnqqHDnvTRNwM
+
+Correct! Next?
+flag{gu3ss_y0u_w3r3_f4st_3n0ugh}
+```
+
+</details>
+<br>
+
+# Linux Scavenger Hunt/the transmission
+
+What is the name of the network interface for the IP address `(192.168.3.169)` you are attached to?
+<br>
+
+<details>
+  <summary>Solution</summary>
+  
+  `ifconfig` returns information about all the network interfaces you are attached to
+  
+  ```txt
+[wayson@titanv1 ~]$ ifconfig
+enp4s0f0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.3.169  netmask 255.255.255.0  broadcast 192.168.3.255
+        inet6 fe80::31c4:794b:f69b:80a6  prefixlen 64  scopeid 0x20<link>
+        ether 0c:c4:7a:db:3f:a8  txqueuelen 1000  (Ethernet)
+        RX packets 4558260  bytes 4495079048 (4.1 GiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1257878  bytes 249638421 (238.0 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        device memory 0xc7420000-c743ffff
+  ```
+</details>
+<br>
+
+# Linux Scavenger Hunt/the air filter
+
+The `cc` command is a symbolic link to something. What is the full path of the executable of which it is a symbolic link to?
+<br>
+
+<details>
+  <summary>Solution</summary>
+
+Using the `which` command we can find the location of the `cc` command
+
+```txt
+[wayson@titanv1 ~]$ which cc
+/usr/bin/cc
+```
+
+Let's `cd` into `/usr/bin` and see what `cc` is linked to
+
+```txt
+[wayson@titanv1 bin]$ ls -la
+total 543896
+dr-xr-xr-x.  3 root root       36864 Dec  9 16:09 .
+drwxr-xr-x. 13 root root        4096 Jun  7  2018 ..
+-rwxr-xr-x   1 root root       41488 Aug 19  2019 [
+-rwxr-xr-x   1 root root      107848 Apr  1  2020 a2p
+...
+lrwxrwxrwx   1 root root           3 Sep 21  2020 cc -> gcc
+```
+
+From here we can use `which` again but this time we can use it to find the location of `gcc`
+
+```txt
+[wayson@titanv1 bin]$ which gcc
+/usr/bin/gcc
+```
+
+</details>
+<br>
+
+# Linux Scavenger Hunt/the alternator
+
+The user `cb1442` is `tail`ing a file on the same server. What is the name of this file?
+
+(hint: finding the PID of the task may help)
+<br>
+
+<details>
+  <summary>Solution</summary>
+  
+  Using the command `ps aux`, we can display a list of processes being ran by all users. From here we can filter down the results using `grep`. By piping the output into `grep` with the `|` operator we can search for only lines that contain a specific string or match a specific pattern. In this case we want to `grep` for `cb1442`
+
+```txt
+[wayson@titanv1 ~]$ ps aux | grep cb1442
+wayson   16007  0.0  0.0 112812   972 pts/0    S+   13:52   0:00 grep --color=auto cb1442
+cb1442   23111  0.0  0.0 108096   596 ?        S    Jan17   0:00 tail -f carparts.py
+```
+
+</details>
+<br>
+
+# Linux Scavenger Hunt/the catalytic converter
+
+Somewhere super secret, there is a super secret file called supersecret.txt. The flag is inside
+<br>
+
+<details>
+  <summary>Solution</summary>
+
+To recursively search for files with a specific file name or pattern starting a specific folder we can use the command `find [starting location] -name [file]`. We have no idea where to start so our best bet is probably to search through everything starting from the root `find / -name 'supersecret.txt'`
+
+```txt
+[wayson@titanv1 ~]$ find / -name 'supersecret.txt'
+find: ‘/boot/efi/EFI/centos’: Permission denied
+find: ‘/boot/lost+found’: Permission denied
+find: ‘/boot/grub2’: Permission denied
+find: ‘/lost+found’: Permission denied
+find: ‘/usr/share/polkit-1/rules.d’: Permission denied
+find: ‘/usr/libexec/initscripts/legacy-actions/auditd’: Permission denied
+find: ‘/run/firewalld’: Permission denied
+find: ‘/run/chrony’: Permission denied
+find: ‘/run/user/513605683’: Permission denied
+find: ‘/run/user/414752222’: Permission denied
+...
+```
+
+<br>
+
+To suppress all these error messages we can use the `>` operator to redirect the output of the error output stream (`stderr`) to a file instead of the console output. In this case, a "file" we can redirect it to is `/dev/null`. This is basically a black hole in Unix systems that discards anything written to it, perfect for this case because we don't care about these error messages. The final command we use to achieve this is `find / -name 'supersecret.txt' 2>/dev/null`. The 2 in this case means the error stream.
+
+```txt
+[wayson@titanv1 ~]$ find / -name 'supersecret.txt' 2>/dev/null
+/tmp/supersecret.txt
+```
+
+```txt
+[wayson@titanv1 ~]$ cat /tmp/supersecret.txt
+flag{okay_its_not_that_secret}
 ```
 
 </details>
