@@ -5,8 +5,7 @@ const markdownItAnchor = require("markdown-it-anchor");
 const timeToRead = require("eleventy-plugin-time-to-read");
 const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
 
-
-module.exports = function(eleventyConfig) {
+module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(UpgradeHelper);
   eleventyConfig.addPassthroughCopy("src/assets/js/fontawesome.js");
   eleventyConfig.addPassthroughCopy("src/assets/css/prism.css");
@@ -52,7 +51,7 @@ module.exports = function(eleventyConfig) {
     minutes: true,
     seconds: false,
     digits: 1,
-    output: function(data) {
+    output: function (data) {
       return data.timing;
     },
   });

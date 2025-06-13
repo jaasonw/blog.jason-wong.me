@@ -82,3 +82,14 @@
 .markdown iframe {
   @apply border;
 }
+
+.markdown img {
+  max-width: 100%;
+  height: auto;
+}
+
+.markdown table {
+  display: block;
+  overflow-x: auto;
+  white-space: nowrap;
+}

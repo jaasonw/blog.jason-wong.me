@@ -2,11 +2,74 @@
 layout: base.liquid
 ---
 <div class="mb-3">
-  <h1 class="text-2xl font-bold">{{ title }}</h1>
+  <h1 class="text-2xl md:text-3xl font-bold">{{ title }}</h1>
   <h2 class="text-sm text-gray-500 dark:text-gray-400">
     {{ page.date | date: '%B %d %Y' }} · {{ content | timeToRead }} read
   </h2>
 </div>
-<div class="markdown min-w-3xl max-w-3xl">
+<div class="markdown w-full max-w-3xl overflow-x-auto">
   {{ content }}
 </div>
+<style>
+  /* Hide assistive MathML content */
+  mjx-assistive-mml {
+    position: absolute !important;
+    left: -10000px !important;
+    width: 1px !important;
+    height: 1px !important;
+    overflow: hidden !important;
+  }
+  
+  /* MathJax responsive styling */
+  mjx-container[jax="SVG"][display="true"] {
+    display: block;
+    max-width: 100%;
+    min-width: auto !important;
+    overflow-y: hidden;
+  }
+  
+  /* Medium screens - 90% scale */
+  @media (max-width: 1024px) {
+    mjx-container[jax="SVG"][display="true"] svg {
+      transform-origin: left center;
+      transform: scale(0.9);
+    }
+  }
+
+  /* Small tablets - 80% scale */
+  @media (max-width: 768px) {
+    mjx-container[jax="SVG"][display="true"] svg {
+      transform: scale(0.8);
+    }
+  }
+  
+  /* Large phones - 70% scale */
+  @media (max-width: 640px) {
+    mjx-container[jax="SVG"][display="true"] svg {
+      transform: scale(0.7);
+    }
+  }
+  
+  /* Small phones - 60% scale */
+  @media (max-width: 480px) {
+    mjx-container[jax="SVG"][display="true"] svg {
+      transform: scale(0.6);
+    }
+  }
+
+  /* Extra small phones - 50% scale, then scroll */
+  @media (max-width: 360px) {
+    mjx-container[jax="SVG"][display="true"] svg {
+      transform: scale(0.5);
+    }
+
+    /* At this point, if the content is still too wide, allow scrolling */
+    mjx-container[jax="SVG"][display="true"] {
+      overflow-x: auto;
+    }
+
+    mjx-container[jax="SVG"][display="true"][style*="font-size: 120%"] svg {
+      max-width: none;
+    }
+  }
+</style>

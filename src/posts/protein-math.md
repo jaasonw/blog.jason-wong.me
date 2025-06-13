@@ -4,11 +4,11 @@ title: Protein Math
 date: 2025-06-13
 ---
 
-Y’all heard of boy math, y’all heard of girl math, let’s talk some protein math if you don’t want people calling you slurs like “small”, “weak”, or “League of Legends player”. I wanna preface this by saying I am fat and my background was not in health / fitness or anything so take the information in this article as you will. However, I do know a thing or two about math and am very into seeing tables. I will try to cite a source from someone who isn't fat if that kind of thing matters to you. 
+Y’all heard of boy math, y’all heard of girl math, let’s talk some protein math if you don’t want people calling you slurs like “small”, “weak”, or “League of Legends player”. I wanna preface this by saying I am fat and my background was not in health / fitness or anything so take the information in this article as you will. However, I do know a thing or two about math and am very into seeing tables. I will try to cite a source from someone who isn't fat if that kind of thing matters to you.
 
 ## What this article is
 
-This article aims to dive into the topic of protein, specifically a high level overview of how to value shop to minmax protein to fit your goals. We’ll analyze a few foods to not necessarily make the case that you should or should not buy it, but to hopefully change the way you look at and shop for protein. 
+This article aims to dive into the topic of protein, specifically a high level overview of how to value shop to minmax protein to fit your goals. We’ll analyze a few foods to not necessarily make the case that you should or should not buy it, but to hopefully change the way you look at and shop for protein.
 
 **TLDR**: Feel free to skip to the bottom if you just care about the table without any commentary
 
@@ -85,22 +85,22 @@ Cost of protein: \\$0.08/g (13.15g/\\$1.00)
 
 ### Additional Meats
 
-|  | Cost per package | Protein per Serving | Servings per Package | Cost of Protein (dollar/ gram) | Protein per Dollar (gram / dollar) |
-| --- | --- | --- | --- | --- | --- |
-| Chicken Breast | 3.99 | 146 | 1 | 0.03 | 36.59 |
-| Egg Whites | 17.54 | 5 | 59 | 0.06 | 16.82 |
-| 99/1 Ground Turkey | 7.99 | 28 | 4 | 0.07 | 14.02 |
-| Canned Tuna | 1.69 | 23 | 1 | 0.07 | 13.61 |
-| 85/15 Ground Pork | 5.99 | 20 | 4 | 0.07 | 13.36 |
-| 90/10 Ground Beef | 6.69 | 22 | 4 | 0.08 | 13.15 |
-| 93/7 Ground Turkey | 6.99 | 22 | 4 | 0.08 | 12.59 |
-| Egg | 6.69 | 6 | 12 | 0.09 | 10.76 |
-| Chicken Sausage | 5.79 | 14 | 4 | 0.10 | 9.67 |
-| Canned Salmon | 21.99 | 17 | 12 | 0.11 | 9.28 |
-| Kirkland Raw Shrimp | 16.95 | 22 | 7 | 0.11 | 9.09 |
-| Pacific Gold Beef Jerky | 21.99 | 14 | 12 | 0.13 | 7.64 |
-| Kroger Medium Raw Shrimp | 7.99 | 15 | 2.5 | 0.21 | 4.69 |
-| Crab Claw Meat | 13.29 | 16 | 3 | 0.28 | 3.61 |
+|                          | Cost per package | Protein per Serving | Servings per Package | Cost of Protein (dollar/ gram) | Protein per Dollar (gram / dollar) |
+| ------------------------ | ---------------- | ------------------- | -------------------- | ------------------------------ | ---------------------------------- |
+| Chicken Breast           | 3.99             | 146                 | 1                    | 0.03                           | 36.59                              |
+| Egg Whites               | 17.54            | 5                   | 59                   | 0.06                           | 16.82                              |
+| 99/1 Ground Turkey       | 7.99             | 28                  | 4                    | 0.07                           | 14.02                              |
+| Canned Tuna              | 1.69             | 23                  | 1                    | 0.07                           | 13.61                              |
+| 85/15 Ground Pork        | 5.99             | 20                  | 4                    | 0.07                           | 13.36                              |
+| 90/10 Ground Beef        | 6.69             | 22                  | 4                    | 0.08                           | 13.15                              |
+| 93/7 Ground Turkey       | 6.99             | 22                  | 4                    | 0.08                           | 12.59                              |
+| Egg                      | 6.69             | 6                   | 12                   | 0.09                           | 10.76                              |
+| Chicken Sausage          | 5.79             | 14                  | 4                    | 0.10                           | 9.67                               |
+| Canned Salmon            | 21.99            | 17                  | 12                   | 0.11                           | 9.28                               |
+| Kirkland Raw Shrimp      | 16.95            | 22                  | 7                    | 0.11                           | 9.09                               |
+| Pacific Gold Beef Jerky  | 21.99            | 14                  | 12                   | 0.13                           | 7.64                               |
+| Kroger Medium Raw Shrimp | 7.99             | 15                  | 2.5                  | 0.21                           | 4.69                               |
+| Crab Claw Meat           | 13.29            | 16                  | 3                    | 0.28                           | 3.61                               |
 
 ### Peanut butter
 
@@ -118,70 +118,70 @@ Cost of protein: \\$0.04 (24.5g/\\$1.00)
 
 ### Vegetarian
 
-I will be considering dairy to be vegetarian but just ignore the rows if this offends you. 
+I will be considering dairy to be vegetarian but just ignore the rows if this offends you.
 
-|  | **Cost per unit** | **Protein per Serving** | **Servings per Package** | **Cost of Protein (dollar/ gram)** | **Protein per Dollar (gram / dollar)** |
-| --- | --- | --- | --- | --- | --- |
-| Peanuts | 2.99 | 7 | 16 | 0.03 | 37.46 |
-| Peanut Butter | 3.99 | 7 | 17 | 0.04 | 24.56 |
-| Plain Nonfat Greek Yogurt | 3.99 | 17 | 5 | 0.05 | 21.30 |
-| Grated Parmesan | 4.29 | 2 | 45 | 0.05 | 20.98 |
-| Firm Tofu | 1.79 | 8 | 4.5 | 0.05 | 20.11 |
-| Cottage Cheese | 3.79 | 12 | 6 | 0.05 | 19.00 |
-| Canned Lentils | 1.59 | 7 | 3.5 | 0.06 | 15.41 |
-| Quinoa | 4.19 | 5 | 10 | 0.08 | 11.93 |
-| Almonds | 4.79 | 6 | 6 | 0.13 | 7.52 |
-| Edamame | 2.99 | 7 | 2.5 | 0.17 | 5.85 |
-| Baby Bella Mushrooms | 2.99 | 2 | 2.5 | 0.60 | 1.67 |
+|                           | **Cost per unit** | **Protein per Serving** | **Servings per Package** | **Cost of Protein (dollar/ gram)** | **Protein per Dollar (gram / dollar)** |
+| ------------------------- | ----------------- | ----------------------- | ------------------------ | ---------------------------------- | -------------------------------------- |
+| Peanuts                   | 2.99              | 7                       | 16                       | 0.03                               | 37.46                                  |
+| Peanut Butter             | 3.99              | 7                       | 17                       | 0.04                               | 24.56                                  |
+| Plain Nonfat Greek Yogurt | 3.99              | 17                      | 5                        | 0.05                               | 21.30                                  |
+| Grated Parmesan           | 4.29              | 2                       | 45                       | 0.05                               | 20.98                                  |
+| Firm Tofu                 | 1.79              | 8                       | 4.5                      | 0.05                               | 20.11                                  |
+| Cottage Cheese            | 3.79              | 12                      | 6                        | 0.05                               | 19.00                                  |
+| Canned Lentils            | 1.59              | 7                       | 3.5                      | 0.06                               | 15.41                                  |
+| Quinoa                    | 4.19              | 5                       | 10                       | 0.08                               | 11.93                                  |
+| Almonds                   | 4.79              | 6                       | 6                        | 0.13                               | 7.52                                   |
+| Edamame                   | 2.99              | 7                       | 2.5                      | 0.17                               | 5.85                                   |
+| Baby Bella Mushrooms      | 2.99              | 2                       | 2.5                      | 0.60                               | 1.67                                   |
 
 ### Protein bars
 
 I don’t have commentary to give on the rest of these, other than the fact that for some reason Kirkland sells a lot of things they call “Protein Bars” but at this point I hope you get the idea, let’s take a look at some protein bars. They call a lot of things “protein bars” though so keep all this in mind when shopping
 
-|  | **Cost per package** | **Protein per Serving** | **Servings per Package** | **Cost of Protein (dollars/gram)** | **Protein per Dollar (gram/dollar)** |
-| --- | --- | --- | --- | --- | --- |
-| Kirkland Signature Chewy Protein Bar | 16.99 | 10 | 42 | 0.04 | 24.72 |
-| Kirkland Signature Protein Bar 1 | 25.49 | 21 | 20 | 0.06 | 16.48 |
-| Kirkland Signature Protein Bar 2 | 26.49 | 21 | 20 | 0.06 | 15.86 |
-| Nature Valley | 18.99 | 10 | 30 | 0.06 | 15.80 |
-| Robert Irvine Fit Crunch | 22.99 | 16 | 18 | 0.08 | 12.53 |
-| Quest Nutrition Protein Bar | 23.49 | 20 | 12 | 0.10 | 10.22 |
-| Pure Protein Chocolate Peanut Caramel | 8.49 | 20 | 4 | 0.11 | 9.42 |
-| RXBAR | 20.99 | 12 | 14 | 0.12 | 8.00 |
-| Kind Nut Bar (Peanut Butter) | 20.49 | 7 | 22 | 0.13 | 7.52 |
+|                                       | **Cost per package** | **Protein per Serving** | **Servings per Package** | **Cost of Protein (dollars/gram)** | **Protein per Dollar (gram/dollar)** |
+| ------------------------------------- | -------------------- | ----------------------- | ------------------------ | ---------------------------------- | ------------------------------------ |
+| Kirkland Signature Chewy Protein Bar  | 16.99                | 10                      | 42                       | 0.04                               | 24.72                                |
+| Kirkland Signature Protein Bar 1      | 25.49                | 21                      | 20                       | 0.06                               | 16.48                                |
+| Kirkland Signature Protein Bar 2      | 26.49                | 21                      | 20                       | 0.06                               | 15.86                                |
+| Nature Valley                         | 18.99                | 10                      | 30                       | 0.06                               | 15.80                                |
+| Robert Irvine Fit Crunch              | 22.99                | 16                      | 18                       | 0.08                               | 12.53                                |
+| Quest Nutrition Protein Bar           | 23.49                | 20                      | 12                       | 0.10                               | 10.22                                |
+| Pure Protein Chocolate Peanut Caramel | 8.49                 | 20                      | 4                        | 0.11                               | 9.42                                 |
+| RXBAR                                 | 20.99                | 12                      | 14                       | 0.12                               | 8.00                                 |
+| Kind Nut Bar (Peanut Butter)          | 20.49                | 7                       | 22                       | 0.13                               | 7.52                                 |
 
 ### So what about protein powder?
 
-Hopefully now that we’ve shifted the focus away from flat dollar amount, let’s take a look at a few protein powders. Yes, I’ve included the trendy ones I keep seeing in my Instagram feed but keep in mind I have not factored in shipping costs for any of these 
+Hopefully now that we’ve shifted the focus away from flat dollar amount, let’s take a look at a few protein powders. Yes, I’ve included the trendy ones I keep seeing in my Instagram feed but keep in mind I have not factored in shipping costs for any of these
 
-|  | **Cost per package** | **Protein per Serving** | **Servings per Package** | **Cost of Protein (dollars/gram)** | **Protein per Dollar (gram/dollar)** |
-| --- | --- | --- | --- | --- | --- |
-| Kirkland Signature Whey | 54.99 | 25 | 70 | 0.03 | 31.82 |
-| Optimum Gold Standard | 67.99 | 24 | 80 | 0.04 | 28.24 |
-| Ascent Native Whey | 54.99 | 25 | 62 | 0.04 | 28.19 |
-| Premier Protein Powder | 21.99 | 30 | 17 | 0.04 | 23.19 |
-| Isopure | 54.99 | 25 | 50 | 0.04 | 22.73 |
-| Ghost | 49.99 | 25 | 28 | 0.07 | 14.00 |
-| Orgain | 30.98 | 21 | 20 | 0.07 | 13.56 |
-| Boba Tea Protein | 49.99 | 25 | 25 | 0.08 | 12.50 |
-| Lunar Lifts Nutrition | 35.99 | 26 | 15 | 0.09 | 10.84 |
+|                         | **Cost per package** | **Protein per Serving** | **Servings per Package** | **Cost of Protein (dollars/gram)** | **Protein per Dollar (gram/dollar)** |
+| ----------------------- | -------------------- | ----------------------- | ------------------------ | ---------------------------------- | ------------------------------------ |
+| Kirkland Signature Whey | 54.99                | 25                      | 70                       | 0.03                               | 31.82                                |
+| Optimum Gold Standard   | 67.99                | 24                      | 80                       | 0.04                               | 28.24                                |
+| Ascent Native Whey      | 54.99                | 25                      | 62                       | 0.04                               | 28.19                                |
+| Premier Protein Powder  | 21.99                | 30                      | 17                       | 0.04                               | 23.19                                |
+| Isopure                 | 54.99                | 25                      | 50                       | 0.04                               | 22.73                                |
+| Ghost                   | 49.99                | 25                      | 28                       | 0.07                               | 14.00                                |
+| Orgain                  | 30.98                | 21                      | 20                       | 0.07                               | 13.56                                |
+| Boba Tea Protein        | 49.99                | 25                      | 25                       | 0.08                               | 12.50                                |
+| Lunar Lifts Nutrition   | 35.99                | 26                      | 15                       | 0.09                               | 10.84                                |
 
 ### Okay but what if I just buy my protein powder already in the liquid? (Protein shakes)
 
 Honestly, it’s not a bad idea but you will be paying a premium over mixing the stuff yourself, I will note that the Fairlife that Costco sells looks unusually cheap, so I’ve also included the Amazon price (at the time of writing, it changed when I refreshed the page) since not everyone has a Costco membership.
 
-|  | **Cost per unit** | **Protein per Serving** | **Servings per Package** | **Cost of Protein (dollar/ gram)** | **Protein per Dollar (gram / dollar)** |
-| --- | --- | --- | --- | --- | --- |
-| Fairlife (Costco) | 38.99 | 30 | 30 | 0.04 | 23.08 |
-| Orgain Protein Shake | 34.99 | 30 | 18 | 0.06 | 15.43 |
-| Premier Protein Shake | 36.99 | 30 | 18 | 0.07 | 14.60 |
-| Muscle Milk | 31.99 | 25 | 18 | 0.07 | 14.07 |
-| Quest Protein Shake | 39.99 | 45 | 12 | 0.07 | 13.50 |
-| Nurri Protein Shake | 26.99 | 30 | 12 | 0.07 | 13.34 |
-| Fairlife (Amazon) | 37.50 | 30 | 12 | 0.10 | 9.60 |
-| Ensure Original | 49.99 | 9 | 30 | 0.19 | 5.40 |
+|                       | **Cost per unit** | **Protein per Serving** | **Servings per Package** | **Cost of Protein (dollar/ gram)** | **Protein per Dollar (gram / dollar)** |
+| --------------------- | ----------------- | ----------------------- | ------------------------ | ---------------------------------- | -------------------------------------- |
+| Fairlife (Costco)     | 38.99             | 30                      | 30                       | 0.04                               | 23.08                                  |
+| Orgain Protein Shake  | 34.99             | 30                      | 18                       | 0.06                               | 15.43                                  |
+| Premier Protein Shake | 36.99             | 30                      | 18                       | 0.07                               | 14.60                                  |
+| Muscle Milk           | 31.99             | 25                      | 18                       | 0.07                               | 14.07                                  |
+| Quest Protein Shake   | 39.99             | 45                      | 12                       | 0.07                               | 13.50                                  |
+| Nurri Protein Shake   | 26.99             | 30                      | 12                       | 0.07                               | 13.34                                  |
+| Fairlife (Amazon)     | 37.50             | 30                      | 12                       | 0.10                               | 9.60                                   |
+| Ensure Original       | 49.99             | 9                       | 30                       | 0.19                               | 5.40                                   |
 
-What you’ll notice throughout all this is that protein powder / shakes dont necessarily blow protein rich foods out of the water in terms of cost or anything. That is, the edge isn't so massive that you should feel like you’re missing out on gains without it. You don’t *need* to incorporate a protein shake into your nutrition plan if you have no problems meeting your protein goals with your existing meals. What these actually are is a good way to help meet your protein goals since a liquid tends to be easier to consume compared to solid food.
+What you’ll notice throughout all this is that protein powder / shakes dont necessarily blow protein rich foods out of the water in terms of cost or anything. That is, the edge isn't so massive that you should feel like you’re missing out on gains without it. You don’t _need_ to incorporate a protein shake into your nutrition plan if you have no problems meeting your protein goals with your existing meals. What these actually are is a good way to help meet your protein goals since a liquid tends to be easier to consume compared to solid food.
 
 ## Variable 2: Protein Density / Protein to Calorie Ratio
 
@@ -233,7 +233,7 @@ Protein Density: 92.00%
 
 ### Canned Salmon
 
-If you’re like me and you dont like canned tuna, I like the canned salmon that Costso sells. It comes close at 85% protein density and tastes better but it is more expensive 
+If you’re like me and you dont like canned tuna, I like the canned salmon that Costso sells. It comes close at 85% protein density and tastes better but it is more expensive
 
 Protein per serving: 17g
 
@@ -243,82 +243,82 @@ Protein Density: 85.00%
 
 ### Additional Meats
 
-|  | **Protein per Serving** | **Calories per Serving** | **Protein Density** |
-| --- | --- | --- | --- |
-| Kirkland Raw Shrimp | 22 | 90 | 97.78% |
-| 99/1 Ground Turkey | 28 | 120 | 93.33% |
-| Canned Tuna | 23 | 100 | 92.00% |
-| Crab Claw Meat | 16 | 70 | 91.43% |
-| Canned Salmon | 17 | 80 | 85.00% |
-| Chicken Breast | 146 | 720 | 81.11% |
-| Egg Whites | 5 | 25 | 80.00% |
-| Kroger Medium Raw Shrimp | 15 | 80 | 75.00% |
-| Pacific Gold Beef Jerky | 14 | 90 | 62.22% |
-| 93/7 Ground Turkey | 22 | 170 | 51.76% |
-| 90/10 Ground Beef | 22 | 200 | 44.00% |
-| Chicken Sausage | 14 | 150 | 37.33% |
-| 85/15 Ground Pork | 20 | 240 | 33.33% |
-| Egg | 6 | 78 | 30.77% |
+|                          | **Protein per Serving** | **Calories per Serving** | **Protein Density** |
+| ------------------------ | ----------------------- | ------------------------ | ------------------- |
+| Kirkland Raw Shrimp      | 22                      | 90                       | 97.78%              |
+| 99/1 Ground Turkey       | 28                      | 120                      | 93.33%              |
+| Canned Tuna              | 23                      | 100                      | 92.00%              |
+| Crab Claw Meat           | 16                      | 70                       | 91.43%              |
+| Canned Salmon            | 17                      | 80                       | 85.00%              |
+| Chicken Breast           | 146                     | 720                      | 81.11%              |
+| Egg Whites               | 5                       | 25                       | 80.00%              |
+| Kroger Medium Raw Shrimp | 15                      | 80                       | 75.00%              |
+| Pacific Gold Beef Jerky  | 14                      | 90                       | 62.22%              |
+| 93/7 Ground Turkey       | 22                      | 170                      | 51.76%              |
+| 90/10 Ground Beef        | 22                      | 200                      | 44.00%              |
+| Chicken Sausage          | 14                      | 150                      | 37.33%              |
+| 85/15 Ground Pork        | 20                      | 240                      | 33.33%              |
+| Egg                      | 6                       | 78                       | 30.77%              |
 
 ### Vegetarian
 
-|  | Protein per Serving | Calories per Serving | Protein Density |
-| --- | --- | --- | --- |
-| Plain Nonfat Greek Yogurt | 17 | 100 | 68.00% |
-| Cottage Cheese | 12 | 90 | 53.33% |
-| Grated Parmesan | 2 | 20 | 40.00% |
-| Firm Tofu | 8 | 80 | 40.00% |
-| Baby Bella Mushrooms | 2 | 20 | 40.00% |
-| Edamame | 7 | 90 | 31.11% |
-| Canned Lentils | 7 | 100 | 28.00% |
-| Peanuts | 7 | 160 | 17.50% |
-| Peanut Butter | 7 | 190 | 14.74% |
-| Almonds | 6 | 170 | 14.12% |
-| Quinoa | 5 | 160 | 12.50% |
+|                           | Protein per Serving | Calories per Serving | Protein Density |
+| ------------------------- | ------------------- | -------------------- | --------------- |
+| Plain Nonfat Greek Yogurt | 17                  | 100                  | 68.00%          |
+| Cottage Cheese            | 12                  | 90                   | 53.33%          |
+| Grated Parmesan           | 2                   | 20                   | 40.00%          |
+| Firm Tofu                 | 8                   | 80                   | 40.00%          |
+| Baby Bella Mushrooms      | 2                   | 20                   | 40.00%          |
+| Edamame                   | 7                   | 90                   | 31.11%          |
+| Canned Lentils            | 7                   | 100                  | 28.00%          |
+| Peanuts                   | 7                   | 160                  | 17.50%          |
+| Peanut Butter             | 7                   | 190                  | 14.74%          |
+| Almonds                   | 6                   | 170                  | 14.12%          |
+| Quinoa                    | 5                   | 160                  | 12.50%          |
 
 ### Protein Bars
 
-|  | **Protein per Serving** | **Calories per Serving** | **Protein Density** |
-| --- | --- | --- | --- |
-| Quest Nutrition Protein Bar | 20 | 170 | 47.06% |
-| Kirkland Signature Protein Bar 1 | 21 | 180 | 46.67% |
-| Kirkland Signature Protein Bar 2 | 21 | 190 | 44.21% |
-| Pure Protein Chocolate Peanut Caramel | 20 | 190 | 42.11% |
-| Robert Irvine Fit Crunch | 16 | 240 | 26.67% |
-| RXBAR | 12 | 210 | 22.86% |
-| Kirkland Signature Chewy Protein Bar | 10 | 190 | 21.05% |
-| Nature Valley | 10 | 190 | 21.05% |
-| Kind Nut Bar (Peanut Butter) | 7 | 200 | 14.00% |
+|                                       | **Protein per Serving** | **Calories per Serving** | **Protein Density** |
+| ------------------------------------- | ----------------------- | ------------------------ | ------------------- |
+| Quest Nutrition Protein Bar           | 20                      | 170                      | 47.06%              |
+| Kirkland Signature Protein Bar 1      | 21                      | 180                      | 46.67%              |
+| Kirkland Signature Protein Bar 2      | 21                      | 190                      | 44.21%              |
+| Pure Protein Chocolate Peanut Caramel | 20                      | 190                      | 42.11%              |
+| Robert Irvine Fit Crunch              | 16                      | 240                      | 26.67%              |
+| RXBAR                                 | 12                      | 210                      | 22.86%              |
+| Kirkland Signature Chewy Protein Bar  | 10                      | 190                      | 21.05%              |
+| Nature Valley                         | 10                      | 190                      | 21.05%              |
+| Kind Nut Bar (Peanut Butter)          | 7                       | 200                      | 14.00%              |
 
 ### Protein Powders
 
-|  | Protein per Serving | Calories per Serving | Protein Density |
-| --- | --- | --- | --- |
-| Isopure | 25 | 110 | 90.91% |
-| Ascent Native Whey | 25 | 120 | 83.33% |
-| Ghost | 25 | 120 | 83.33% |
-| Optimum Gold Standard | 24 | 120 | 80.00% |
-| Premier Protein Powder | 30 | 150 | 80.00% |
-| Lunar Lifts Nutrition | 26 | 133 | 78.20% |
-| Kirkland Signature Whey | 25 | 130 | 76.92% |
-| Boba Tea Protein | 25 | 150 | 66.67% |
-| Orgain | 21 | 150 | 56.00% |
+|                         | Protein per Serving | Calories per Serving | Protein Density |
+| ----------------------- | ------------------- | -------------------- | --------------- |
+| Isopure                 | 25                  | 110                  | 90.91%          |
+| Ascent Native Whey      | 25                  | 120                  | 83.33%          |
+| Ghost                   | 25                  | 120                  | 83.33%          |
+| Optimum Gold Standard   | 24                  | 120                  | 80.00%          |
+| Premier Protein Powder  | 30                  | 150                  | 80.00%          |
+| Lunar Lifts Nutrition   | 26                  | 133                  | 78.20%          |
+| Kirkland Signature Whey | 25                  | 130                  | 76.92%          |
+| Boba Tea Protein        | 25                  | 150                  | 66.67%          |
+| Orgain                  | 21                  | 150                  | 56.00%          |
 
 ### Protein Shakes
 
-|  | Protein per Serving | Calories per Serving | Protein Density |
-| --- | --- | --- | --- |
-| Fairlife | 30 | 150 | 80.00% |
-| Nurri Protein Shake | 30 | 150 | 80.00% |
-| Quest Protein Shake | 45 | 230 | 78.26% |
-| Orgain Protein Shake | 30 | 160 | 75.00% |
-| Premier Protein Shake | 30 | 160 | 75.00% |
-| Muscle Milk | 25 | 160 | 62.50% |
-| Ensure Original | 9 | 220 | 16.36% |
+|                       | Protein per Serving | Calories per Serving | Protein Density |
+| --------------------- | ------------------- | -------------------- | --------------- |
+| Fairlife              | 30                  | 150                  | 80.00%          |
+| Nurri Protein Shake   | 30                  | 150                  | 80.00%          |
+| Quest Protein Shake   | 45                  | 230                  | 78.26%          |
+| Orgain Protein Shake  | 30                  | 160                  | 75.00%          |
+| Premier Protein Shake | 30                  | 160                  | 75.00%          |
+| Muscle Milk           | 25                  | 160                  | 62.50%          |
+| Ensure Original       | 9                   | 220                  | 16.36%          |
 
 ## Conclusion
 
-For the most part I've focused on the whole foods, the base components of meals, to give you a rough ballpark idea of what processed foods like chicken nuggets might look like nutritionally compared to their pure protein sources. Theres a lot of products out there that are marketed a protein sources but rank pretty poorly in both metrics so hopefully this changes the way you go about value shopping beyond just looking at the price tag the next time you grocery shop. 
+For the most part I've focused on the whole foods, the base components of meals, to give you a rough ballpark idea of what processed foods like chicken nuggets might look like nutritionally compared to their pure protein sources. Theres a lot of products out there that are marketed a protein sources but rank pretty poorly in both metrics so hopefully this changes the way you go about value shopping beyond just looking at the price tag the next time you grocery shop.
 
 My main takeaways here are
 
@@ -326,61 +326,61 @@ My main takeaways here are
 2. If you’re looking to maximize the the protein you’re getting while minimizing caloric intake you’ll want to look at foods with a higher protein density
 3. There’s no one size fits all solution and all of this depends on your own specific goals, dietary preferences, and budget
 
-I’ll include the Excel spreadsheet I used to calculate all this so you can plug and play around with your own local pricing. If you enjoyed reading this or found the information helpful, consider donating at [https://jasonw.me/donate](https://jasonw.me/donate) 
+I’ll include the Excel spreadsheet I used to calculate all this so you can plug and play around with your own local pricing. If you enjoyed reading this or found the information helpful, consider donating at [https://jasonw.me/donate](https://jasonw.me/donate)
 
 ## All at once
 
 [Excel Spreadsheet Download](/assets/post-content/protein-math/protein.xlsx)
 
-|  | Cost per package | Protein per Serving | Calories per Serving | Servings per Package | Cost of Protein (dollar/ gram) | Protein per Dollar (gram / dollar) | Protein Density |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Peanuts | 2.99 | 7 | 160 | 16 | 0.03 | 37.46 | 17.50% |
-| Chicken Breast | 3.99 | 146 | 720 | 1 | 0.03 | 36.59 | 81.11% |
-| Kirkland Signature Whey | 54.99 | 25 | 130 | 70 | 0.03 | 31.82 | 76.92% |
-| Optimum Gold Standard | 67.99 | 24 | 120 | 80 | 0.04 | 28.24 | 80.00% |
-| Ascent Native Whey | 54.99 | 25 | 120 | 62 | 0.04 | 28.19 | 83.33% |
-| Kirkland Signature Chewy Protein Bar | 16.99 | 10 | 190 | 42 | 0.04 | 24.72 | 21.05% |
-| Peanut Butter | 3.99 | 7 | 190 | 14 | 0.04 | 24.56 | 14.74% |
-| Premier Protein Powder | 21.99 | 30 | 150 | 17 | 0.04 | 23.19 | 80.00% |
-| Fairlife (Costco) | 38.99 | 30 | 150 | 30 | 0.04 | 23.08 | 80.00% |
-| Isopure | 54.99 | 25 | 110 | 50 | 0.04 | 22.73 | 90.91% |
-| Plain Nonfat Greek Yogurt | 3.99 | 17 | 100 | 5 | 0.05 | 21.30 | 68.00% |
-| Grated Parmesan | 4.29 | 2 | 20 | 45 | 0.05 | 20.98 | 40.00% |
-| Firm Tofu | 1.79 | 8 | 80 | 4.5 | 0.05 | 20.11 | 40.00% |
-| Cottage Cheese | 3.79 | 12 | 90 | 6 | 0.05 | 19.00 | 53.33% |
-| Egg Whites | 17.54 | 5 | 25 | 59 | 0.06 | 16.82 | 80.00% |
-| Kirkland Signature Protein Bar 1 | 25.49 | 21 | 180 | 20 | 0.06 | 16.48 | 46.67% |
-| Kirkland Signature Protein Bar 2 | 26.49 | 21 | 190 | 20 | 0.06 | 15.86 | 44.21% |
-| Nature Valley | 18.99 | 10 | 190 | 30 | 0.06 | 15.80 | 21.05% |
-| Orgain Protein Shake | 34.99 | 30 | 160 | 18 | 0.06 | 15.43 | 75.00% |
-| Canned Lentils | 1.59 | 7 | 100 | 3.5 | 0.06 | 15.41 | 28.00% |
-| Premier Protein Shake | 36.99 | 30 | 160 | 18 | 0.07 | 14.60 | 75.00% |
-| 85/15 Ground Pork | 5.99 | 20 | 240 | 4 | 0.07 | 13.36 | 33.33% |
-| Canned Tuna | 1.69 | 23 | 100 | 1 | 0.07 | 13.61 | 92.00% |
-| 99/1 Ground Turkey | 7.99 | 28 | 120 | 4 | 0.07 | 14.02 | 93.33% |
-| Muscle Milk | 31.99 | 25 | 160 | 18 | 0.07 | 14.07 | 62.50% |
-| Ghost | 49.99 | 25 | 120 | 28 | 0.07 | 14.00 | 83.33% |
-| Orgain | 30.98 | 21 | 150 | 20 | 0.07 | 13.56 | 56.00% |
-| Quest Protein Shake | 39.99 | 45 | 230 | 12 | 0.07 | 13.50 | 78.26% |
-| Nurri Protein Shake | 26.99 | 30 | 150 | 12 | 0.07 | 13.34 | 80.00% |
-| Robert Irvine Fit Crunch | 22.99 | 16 | 240 | 18 | 0.08 | 12.53 | 26.67% |
-| Boba Tea Protein | 49.99 | 25 | 150 | 25 | 0.08 | 12.50 | 66.67% |
-| 93/7 Ground Turkey | 6.99 | 22 | 170 | 4 | 0.08 | 12.59 | 51.76% |
-| 90/10 Ground Beef | 6.69 | 22 | 200 | 4 | 0.08 | 13.15 | 44.00% |
-| Quinoa | 4.19 | 5 | 160 | 10 | 0.08 | 11.93 | 12.50% |
-| Egg | 6.69 | 6 | 78 | 12 | 0.09 | 10.76 | 30.77% |
-| Lunar Lifts Nutrition | 35.99 | 26 | 133 | 15 | 0.09 | 10.84 | 78.20% |
-| Quest Nutrition Protein Bar | 23.49 | 20 | 170 | 12 | 0.10 | 10.22 | 47.06% |
-| Chicken Sausage | 5.79 | 14 | 150 | 4 | 0.10 | 9.67 | 37.33% |
-| Pure Protein Chocolate Peanut Caramel | 8.49 | 20 | 190 | 4 | 0.11 | 9.42 | 42.11% |
-| Kirkland Raw Shrimp | 16.95 | 22 | 90 | 7 | 0.11 | 9.09 | 97.78% |
-| Canned Salmon | 21.99 | 17 | 80 | 12 | 0.11 | 9.28 | 85.00% |
-| RXBAR | 20.99 | 12 | 210 | 14 | 0.12 | 8.00 | 22.86% |
-| Pacific Gold Beef Jerky | 21.99 | 14 | 90 | 12 | 0.13 | 7.64 | 62.22% |
-| Kind Nut Bar (Peanut Butter) | 20.49 | 7 | 200 | 22 | 0.13 | 7.52 | 14.00% |
-| Almonds | 4.79 | 6 | 170 | 6 | 0.13 | 7.52 | 14.12% |
-| Edamame | 2.99 | 7 | 90 | 2.5 | 0.17 | 5.85 | 31.11% |
-| Ensure Original | 49.99 | 9 | 220 | 30 | 0.19 | 5.40 | 16.36% |
-| Kroger Medium Raw Shrimp | 7.99 | 15 | 80 | 2.5 | 0.21 | 4.69 | 75.00% |
-| Crab Claw Meat | 13.29 | 16 | 70 | 3 | 0.28 | 3.61 | 91.43% |
-| Baby Bella Mushrooms | 2.99 | 2 | 20 | 2.5 | 0.60 | 1.67 | 40.00% |
+|                                       | Cost per package | Protein per Serving | Calories per Serving | Servings per Package | Cost of Protein (dollar/ gram) | Protein per Dollar (gram / dollar) | Protein Density |
+| ------------------------------------- | ---------------- | ------------------- | -------------------- | -------------------- | ------------------------------ | ---------------------------------- | --------------- |
+| Peanuts                               | 2.99             | 7                   | 160                  | 16                   | 0.03                           | 37.46                              | 17.50%          |
+| Chicken Breast                        | 3.99             | 146                 | 720                  | 1                    | 0.03                           | 36.59                              | 81.11%          |
+| Kirkland Signature Whey               | 54.99            | 25                  | 130                  | 70                   | 0.03                           | 31.82                              | 76.92%          |
+| Optimum Gold Standard                 | 67.99            | 24                  | 120                  | 80                   | 0.04                           | 28.24                              | 80.00%          |
+| Ascent Native Whey                    | 54.99            | 25                  | 120                  | 62                   | 0.04                           | 28.19                              | 83.33%          |
+| Kirkland Signature Chewy Protein Bar  | 16.99            | 10                  | 190                  | 42                   | 0.04                           | 24.72                              | 21.05%          |
+| Peanut Butter                         | 3.99             | 7                   | 190                  | 14                   | 0.04                           | 24.56                              | 14.74%          |
+| Premier Protein Powder                | 21.99            | 30                  | 150                  | 17                   | 0.04                           | 23.19                              | 80.00%          |
+| Fairlife (Costco)                     | 38.99            | 30                  | 150                  | 30                   | 0.04                           | 23.08                              | 80.00%          |
+| Isopure                               | 54.99            | 25                  | 110                  | 50                   | 0.04                           | 22.73                              | 90.91%          |
+| Plain Nonfat Greek Yogurt             | 3.99             | 17                  | 100                  | 5                    | 0.05                           | 21.30                              | 68.00%          |
+| Grated Parmesan                       | 4.29             | 2                   | 20                   | 45                   | 0.05                           | 20.98                              | 40.00%          |
+| Firm Tofu                             | 1.79             | 8                   | 80                   | 4.5                  | 0.05                           | 20.11                              | 40.00%          |
+| Cottage Cheese                        | 3.79             | 12                  | 90                   | 6                    | 0.05                           | 19.00                              | 53.33%          |
+| Egg Whites                            | 17.54            | 5                   | 25                   | 59                   | 0.06                           | 16.82                              | 80.00%          |
+| Kirkland Signature Protein Bar 1      | 25.49            | 21                  | 180                  | 20                   | 0.06                           | 16.48                              | 46.67%          |
+| Kirkland Signature Protein Bar 2      | 26.49            | 21                  | 190                  | 20                   | 0.06                           | 15.86                              | 44.21%          |
+| Nature Valley                         | 18.99            | 10                  | 190                  | 30                   | 0.06                           | 15.80                              | 21.05%          |
+| Orgain Protein Shake                  | 34.99            | 30                  | 160                  | 18                   | 0.06                           | 15.43                              | 75.00%          |
+| Canned Lentils                        | 1.59             | 7                   | 100                  | 3.5                  | 0.06                           | 15.41                              | 28.00%          |
+| Premier Protein Shake                 | 36.99            | 30                  | 160                  | 18                   | 0.07                           | 14.60                              | 75.00%          |
+| 85/15 Ground Pork                     | 5.99             | 20                  | 240                  | 4                    | 0.07                           | 13.36                              | 33.33%          |
+| Canned Tuna                           | 1.69             | 23                  | 100                  | 1                    | 0.07                           | 13.61                              | 92.00%          |
+| 99/1 Ground Turkey                    | 7.99             | 28                  | 120                  | 4                    | 0.07                           | 14.02                              | 93.33%          |
+| Muscle Milk                           | 31.99            | 25                  | 160                  | 18                   | 0.07                           | 14.07                              | 62.50%          |
+| Ghost                                 | 49.99            | 25                  | 120                  | 28                   | 0.07                           | 14.00                              | 83.33%          |
+| Orgain                                | 30.98            | 21                  | 150                  | 20                   | 0.07                           | 13.56                              | 56.00%          |
+| Quest Protein Shake                   | 39.99            | 45                  | 230                  | 12                   | 0.07                           | 13.50                              | 78.26%          |
+| Nurri Protein Shake                   | 26.99            | 30                  | 150                  | 12                   | 0.07                           | 13.34                              | 80.00%          |
+| Robert Irvine Fit Crunch              | 22.99            | 16                  | 240                  | 18                   | 0.08                           | 12.53                              | 26.67%          |
+| Boba Tea Protein                      | 49.99            | 25                  | 150                  | 25                   | 0.08                           | 12.50                              | 66.67%          |
+| 93/7 Ground Turkey                    | 6.99             | 22                  | 170                  | 4                    | 0.08                           | 12.59                              | 51.76%          |
+| 90/10 Ground Beef                     | 6.69             | 22                  | 200                  | 4                    | 0.08                           | 13.15                              | 44.00%          |
+| Quinoa                                | 4.19             | 5                   | 160                  | 10                   | 0.08                           | 11.93                              | 12.50%          |
+| Egg                                   | 6.69             | 6                   | 78                   | 12                   | 0.09                           | 10.76                              | 30.77%          |
+| Lunar Lifts Nutrition                 | 35.99            | 26                  | 133                  | 15                   | 0.09                           | 10.84                              | 78.20%          |
+| Quest Nutrition Protein Bar           | 23.49            | 20                  | 170                  | 12                   | 0.10                           | 10.22                              | 47.06%          |
+| Chicken Sausage                       | 5.79             | 14                  | 150                  | 4                    | 0.10                           | 9.67                               | 37.33%          |
+| Pure Protein Chocolate Peanut Caramel | 8.49             | 20                  | 190                  | 4                    | 0.11                           | 9.42                               | 42.11%          |
+| Kirkland Raw Shrimp                   | 16.95            | 22                  | 90                   | 7                    | 0.11                           | 9.09                               | 97.78%          |
+| Canned Salmon                         | 21.99            | 17                  | 80                   | 12                   | 0.11                           | 9.28                               | 85.00%          |
+| RXBAR                                 | 20.99            | 12                  | 210                  | 14                   | 0.12                           | 8.00                               | 22.86%          |
+| Pacific Gold Beef Jerky               | 21.99            | 14                  | 90                   | 12                   | 0.13                           | 7.64                               | 62.22%          |
+| Kind Nut Bar (Peanut Butter)          | 20.49            | 7                   | 200                  | 22                   | 0.13                           | 7.52                               | 14.00%          |
+| Almonds                               | 4.79             | 6                   | 170                  | 6                    | 0.13                           | 7.52                               | 14.12%          |
+| Edamame                               | 2.99             | 7                   | 90                   | 2.5                  | 0.17                           | 5.85                               | 31.11%          |
+| Ensure Original                       | 49.99            | 9                   | 220                  | 30                   | 0.19                           | 5.40                               | 16.36%          |
+| Kroger Medium Raw Shrimp              | 7.99             | 15                  | 80                   | 2.5                  | 0.21                           | 4.69                               | 75.00%          |
+| Crab Claw Meat                        | 13.29            | 16                  | 70                   | 3                    | 0.28                           | 3.61                               | 91.43%          |
+| Baby Bella Mushrooms                  | 2.99             | 2                   | 20                   | 2.5                  | 0.60                           | 1.67                               | 40.00%          |
