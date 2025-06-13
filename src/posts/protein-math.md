@@ -4,8 +4,6 @@ title: Protein Math
 date: 2025-06-13
 ---
 
-# Protein Math
-
 Y’all heard of boy math, y’all heard of girl math, let’s talk some protein math if you don’t want people calling you slurs like “small”, “weak”, or “League of Legends player”. I wanna preface this by saying I am fat and my background was not in health / fitness or anything so take the information in this article as you will. However, I do know a thing or two about math and am very into seeing tables. I will try to cite a source from someone who isn't fat if that kind of thing matters to you. 
 
 ## What this article is
