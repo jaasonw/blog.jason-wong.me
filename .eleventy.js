@@ -1,19 +1,19 @@
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const mathjaxPlugin = require("eleventy-plugin-mathjax");
-const htmlmin = require("html-minifier");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
-// const { EleventyPluginCodeDemo } = require("eleventy-plugin-code-demo");
 const timeToRead = require("eleventy-plugin-time-to-read");
 const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
 
 
-module.exports = function (eleventyConfig) {
+module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(UpgradeHelper);
   eleventyConfig.addPassthroughCopy("src/assets/js/fontawesome.js");
   eleventyConfig.addPassthroughCopy("src/assets/css/prism.css");
   eleventyConfig.addPassthroughCopy("src/assets/css/prism-okaidia.css");
   eleventyConfig.addPassthroughCopy("src/assets/images/*");
+  eleventyConfig.addPassthroughCopy("src/assets/post-content/**/*");
+
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.addPlugin(mathjaxPlugin, {
     output: "svg",
@@ -52,7 +52,7 @@ module.exports = function (eleventyConfig) {
     minutes: true,
     seconds: false,
     digits: 1,
-    output: function (data) {
+    output: function(data) {
       return data.timing;
     },
   });

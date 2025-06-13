@@ -4,6 +4,6 @@ layout: index.liquid
 
 Hey there!
 
-My name is Jason, I'm a frontend web developer that used to work at a start up that's known for selling books and shipping things in 2 days.
+My name is Jason, I reset passwords and unlock Active Directory accounts. In the past I've worked at a cloud computing start up that's known for sellng books and shipping things really fast.
 
-The purpose of this website is to motivate myself to write more and to learn 11ty because something we web developers tend to not realize is that not everything has to be written in React. I don't know what I'll write about yet but expect guides and tutorials about tech and whatever other thoughts I feel the need to write about.
+The purpose of this website is for me to write more and post guides on random stuff I find interesting and learn some off meta tech because the only thing anyone seems to care about is React. I'm interested in self hosting/infra, AI, cooking, personal finance, and lifting so maybe expect content related to those. 
