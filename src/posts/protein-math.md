@@ -33,7 +33,7 @@ Before diving into the protein calculations, let's quickly establish some baseli
 
 1. Food consists of 3 macronutrients that we care about: Carbs, Fat, and Protein. They all do different things for your body but obviously this article will focus on protein
 2. To lose weight you need to be in a calorie deficit and to gain weight you need to be in a calorie surplus. There are calculators for this online
-3. To build muscle you need 0.8 - 1 gram per pound of lean muscle mass. This can be hard to calculate so often times people will generalize it to 0.8 - 1 gram per pound of body weight instead
+3. To build muscle you need 0.8 - 1 gram per pound of lean muscle mass. This can be hard to calculate so often times people will generalize it to 0.8 - 1 gram per pound of body weight instead. Of course, none of this matters though without regular resistance training to actually stimulate muscle growth. Protein is just the bricks, and excercise is the construction work you need to actually build the wall
 
 Sources
 
@@ -168,7 +168,7 @@ Hopefully now that we’ve shifted the focus away from flat dollar amount, let�
 
 ### Okay but what if I just buy my protein powder already in the liquid? (Protein shakes)
 
-Honestly it’s not a bad idea but you will be paying a premium over mixing the stuff yourself, I will note that the Fairlife that Costco sells looks unusually cheap so I’ve also included the Amazon price (at the time of writing, it changed when I refreshed the page) since not everyone has a Costco membership.
+Honestly, it’s not a bad idea but you will be paying a premium over mixing the stuff yourself, I will note that the Fairlife that Costco sells looks unusually cheap, so I’ve also included the Amazon price (at the time of writing, it changed when I refreshed the page) since not everyone has a Costco membership.
 
 |  | **Cost per unit** | **Protein per Serving** | **Servings per Package** | **Cost of Protein (dollar/ gram)** | **Protein per Dollar (gram / dollar)** |
 | --- | --- | --- | --- | --- | --- |
@@ -181,7 +181,7 @@ Honestly it’s not a bad idea but you will be paying a premium over mixing the 
 | Fairlife (Amazon) | 37.50 | 30 | 12 | 0.10 | 9.60 |
 | Ensure Original | 49.99 | 9 | 30 | 0.19 | 5.40 |
 
-What you’ll notice throughout all this is that protein powder / shakes dont necessarily blow protein rich foods out of the water in terms of cost or anything. That is, the edge isn't so massive that you should feel like you’re missing out on gains without it. You don’t *need* to incorporate a protein shake into your nutrition plan if you have no problems meeting your protein goals with your existing meals. What these actually are is a good way to meet your protein goals since a liquid tends to be easier to consume compared to solid food.
+What you’ll notice throughout all this is that protein powder / shakes dont necessarily blow protein rich foods out of the water in terms of cost or anything. That is, the edge isn't so massive that you should feel like you’re missing out on gains without it. You don’t *need* to incorporate a protein shake into your nutrition plan if you have no problems meeting your protein goals with your existing meals. What these actually are is a good way to help meet your protein goals since a liquid tends to be easier to consume compared to solid food.
 
 ## Variable 2: Protein Density / Protein to Calorie Ratio
 
